@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Of Door Pulls and Insanity
+date: 2015-10-25
 published: true
 ---
 
