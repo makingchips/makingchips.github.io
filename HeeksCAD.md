@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HeeksCAD
-published: true
+published: false
 ---
 
 <p class="message">
