@@ -4,7 +4,7 @@ title: HeeksCAD
 date: 2015-10-25
 published: true
 ---
-{{ page.date }}
+{{ page.date | date_to_string }}
 
 <p class="message">
 Start with the free one...
