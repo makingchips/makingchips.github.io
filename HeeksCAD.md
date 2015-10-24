@@ -1,8 +1,9 @@
 ---
 layout: page
 title: HeeksCAD
-published: false
+published: true
 ---
+
 
 <p class="message">
 Start with the free one...
