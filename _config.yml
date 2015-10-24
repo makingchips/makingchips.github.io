@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Making Chips
+tagline:          CNC Blog
+description:      Redneck engineering, learning about cutting metal one broken tool at a time.
+url:              https://makingchips.github.io
+baseurl:          /
+
+author:
+  name:           ‘Neal Clayton’
+  url:            https://twitter.com/Over9000ft
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/RNCTX
