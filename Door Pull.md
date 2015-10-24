@@ -6,7 +6,7 @@ title: …A Door Pull
 Here’s my subject matter for these tests and rants and ravings, a Commander 114 door pull…
 
 
-![Door Pull](_images/doorpull.jpg)
+![Door Pull](public/doorpull.jpg)
 
 
 
