@@ -7,7 +7,7 @@ published: true
 {{ page.date }}
 
 <p class="message">
-Start with the free one
+Start with the free one...
 </p>
 
 [HeeksCAD/CAM](https://github.com/Heeks/heekscad) seems to be a fairly robust open-source CAD/CAM alternative, at least from the screenshots and feature list.  Unfortunately, as you can see its git is turning into a ghost town, no commits in 2-3 years.  But hey, maybe it just works and there's nothing to update?
