@@ -6,7 +6,7 @@ title: The Subject
 Here’s my subject matter for these tests and rants and ravings, a Commander 114 door pull…
 
 
-![Door Pull](public/doorpull.jpg)
+![Door Pull]({{ site.url }}/public/doorpull.jpg)
 
 
 
