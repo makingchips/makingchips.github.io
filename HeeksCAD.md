@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Of Door Pulls and Insanity
+published: true
+---
 <p class="message">
 Start with the free one...
 </p>
