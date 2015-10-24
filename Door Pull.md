@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: post
 title: Of Door Pulls and Insanity
 date: 2015-10-24
 published: true
 ---
-{{ page.date }}
+{{ post.date }}
 
 <p class="message">
 They’d look a lot better made out of aluminum…
