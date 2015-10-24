@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: page
 title: HeeksCAD
 date: 2014-10-25
 published: true
 ---
-{{ post.date }}
+{{ page.date }}
 
 <p class="message">
 Start with the free one...
