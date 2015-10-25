@@ -14,6 +14,6 @@ I’ve got a bankrupt airplane.  Well, the airplane itself isn’t bankrupt but 
 
 Many lessons have been learned thus far, but the main lesson that keeps rearing its ugly head is that CAD, CAM, and CNC software are pretty awful by today’s standards.  I figured keeping track of what I tried that did and didn’t work might save someone else some trouble, especially since home-brew CNC seems to be a [booming hobby](https://www.youtube.com/results?search_query=home+CNC).
 
-My observations, directions, rants, raves, and what not are linked in the menu on the left.
+My observations, directions, rants, raves, and what not are linked in the 'Posts' menu on the left.
 
 Thanks for reading!
