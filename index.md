@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About Me
 ---
 <p class="message">
 Just wanted to make some door pulls and throttle handles…
