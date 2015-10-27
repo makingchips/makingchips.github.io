@@ -45,4 +45,6 @@ There is a 'cutout toolpath' option, but as you can see here it's limited to the
 
 ![Step 8]({{ site.url }}/public/cut3d08.png)
 
-And [I'm not the only one](http://forum.vectric.com/viewtopic.php?f=12&t=19529) finding this stuff out, apparently.  The short answer is anything that costs less than Aspire from Vectric is going to be veeerrrrry limited, and will effectively accomplish nothing but leading you toward paying the 2 grand they want for Aspire.
+In short, don't impulse buy software, and surely don't impulse buy software from Vectric.  You will be disappointed.
+
+[I'm not the only one](http://forum.vectric.com/viewtopic.php?f=12&t=19529) finding this stuff out, apparently.  The short answer is anything that costs less than Aspire from Vectric is going to be veeerrrrry limited, and will effectively accomplish nothing but leading you toward paying the 2 grand they want for Aspire.
