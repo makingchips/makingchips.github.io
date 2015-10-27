@@ -15,7 +15,7 @@ But then I noticed something.
 
 ![Screenshot]({{ site.url }}/public/heeks-dolphin2.png)
 
-HeeksCNC in the upper left, PM3D is DolphinCAD's import/export program that comes at a 500 dollar price premium to their standard cad/mill bundle.  Looking a bit further into what all is in there...
+HeeksCNC icon in the upper left, the PM3D icon just below it to the right is DolphinCAD's import/export program that comes at a 500 dollar price premium to their standard cad/mill bundle.  Looking a bit further into what all is in there...
 
 ![Screenshot]({{ site.url }}/public/heeks-dolphin4.png)
 
