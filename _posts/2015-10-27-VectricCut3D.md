@@ -11,7 +11,7 @@ The above is as true as the laws of thermodynamics.  Unfortunately I made that m
 
 Do not mistake the following guide/screenshots as any sort of intro or example.  This is *literally 'it'.*  There is no more to the following program than the following screenshots.  If you want to cut wooden reliefs of pictures that your grandkids put on Twitter I suppose this is all you'll ever need, but if you need to anything else, ever, it's not going to be sufficient.
 
-The software is effectively a bait to get you to buy their more expensive software directly after you find that the one you bought can't do some basic thing you need.
+The software is effectively a bait to get you to buy their more expensive software after you find that the one you bought can't do some basic thing you need.  Only difference in the bait/fish/fisherman dynamic is not only are you buying the bait in this example, but you're also the fish.
 
 Here's our doorpull again, flipped upside down to do the simplest side first.  Pretty standard fare for the beginning of a part cutting wizard.  Define the top, units of measurement, scale, etc.
 
