@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Vectric Cut3D
+comments: true
 ---
 
 <p class="message">
