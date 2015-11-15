@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Speaking of Heeks (and DolphinCAD)
+comments: true
 ---
 
 <p class="message">
