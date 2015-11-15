@@ -10,7 +10,7 @@ Hmmm....
 
 I mentioned [HeeksCAD/CAM](https://github.com/Heeks/heekscad) in a previous post.  For what it is (both CAD and CAM) and what it costs (nothing, it's an open source project), it seems like a pretty decent software package for starting out with.
 
-After having issues installing it on OSX (missing 64 bit capable libraries/dependencies) and having little luck with it in a Ubuntu Linux Virtualbox due to issues with Mesa and the VirtualBox 3d driver, I just grabbed the Windows trial version to check it out real quick.
+After having issues installing it on OSX (missing 64 bit capable libraries/dependencies) and having little luck with it in a Ubuntu Linux Virtualbox due to issues with Mesa and the VirtualBox Mesa 3d packages, I just grabbed the Windows trial version to check it out real quick.
 
 But then I noticed something.
 
