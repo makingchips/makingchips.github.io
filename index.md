@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 <p class="message">
-Just wanted to make some door pulls and throttle handles…
+I just wanted to make some door pulls and throttle handles…
 </p>
 
 My name is Neal, and I’m a pilot who lives in the Dallas, Texas area.  This is a collection of my successes and failures in regard to setting up a CNC mill in my garage.  
