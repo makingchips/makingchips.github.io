@@ -8,7 +8,7 @@ comments: true
 Never impulse-buy software, you will always be disappointed
 </p>
 
-Unfortunately I made the above mistake recently with Vectric Cut3D after a frustrating bout with another CAM application that I was struggling with.  The Cut3D trial solved the particular problem I was having, so I bought it on the spot.  Bad move.
+Unfortunately I made the above mistake recently with Vectric Cut3D after a frustrating bout with another CAM application that I was struggling with.  The Cut3D trial solved the particular problem I was having, so I bought it on a whim.  Bad move.
 
 Do not mistake the following guide/screenshots as any sort of intro or example.  This is *literally 'it'.*  There is no more to the following program than the following screenshots.  If you want to cut wooden reliefs of pictures that your grandkids put on Twitter I suppose this is all you'll ever need, but if you need to anything else, ever, it's not going to be sufficient.
 
