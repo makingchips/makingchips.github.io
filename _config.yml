@@ -22,10 +22,5 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-analytics :
-  provider : google 
-  google : 
-      tracking_id : 'UA-70109767-1'
-
 github:
   repo:           https://github.com/RNCTX
